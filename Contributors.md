@@ -28,4 +28,6 @@ Time-collector contributors
 
 * **[jarhae1](https://github.com/jarhae1)**
 
+* **[lawsonjm](https://github.com/lawsonjm)**
+
 **[Full contributors list](https://github.com/zero-to-mastery/time-collector/graphs/contributors).**
